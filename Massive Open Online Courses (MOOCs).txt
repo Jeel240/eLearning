@@ -1,0 +1,23 @@
+Massive Open Online Courses (MOOCs) – Websites like Coursera, Udemy, and edX that offer large-scale online courses.
+
+admin login:
+email: admin@example.com
+password: admin123
+
+instructor login:
+email: instructor1@gmail.com
+password: instructor123
+
+OR 
+
+email: instructor2@gmail.com
+password: instructor234
+
+user login:
+email: jeel@gmail.com
+password: jeel123
+
+OR
+
+email: avani@gmail.com
+password: avani123

@@ -1,0 +1,149 @@
+/* ============ General Responsive Adjustments ============ */
+@media (max-width: 1200px) {
+  .navbar .nav-link {
+    padding: 0.5rem 1rem;
+  }
+
+  .course-card img {
+    height: 180px;
+  }
+
+  .card-title {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .home-section h1 {
+    font-size: 2.2rem;
+  }
+
+  .navbar-collapse {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0 0 10px 10px;
+  }
+
+  .navbar-nav {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .contact-form {
+    padding: 30px 20px;
+  }
+}
+
+/* ============ Tablet View ============ */
+@media (max-width: 768px) {
+  .home-section h1 {
+    font-size: 1.8rem;
+  }
+
+  .home-section p {
+    font-size: 1rem;
+  }
+
+  .page-header h1 {
+    font-size: 1.8rem;
+  }
+
+  .about-section .info-box {
+    padding: 25px;
+  }
+
+  .card.course-card img {
+    height: 160px;
+  }
+
+  .card-body .card-text {
+    font-size: 0.9rem;
+  }
+
+  .team-section .card {
+    text-align: center;
+  }
+
+  .team-section .card img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .search-bar {
+    width: 100%;
+    font-size: 0.9rem;
+  }
+
+  .search-form .btn {
+    font-size: 0.9rem;
+  }
+}
+
+/* ============ Mobile View ============ */
+@media (max-width: 576px) {
+  .navbar-brand {
+    font-size: 1.25rem;
+  }
+
+  .home-section {
+    padding: 60px 20px;
+  }
+
+  .home-section h1 {
+    font-size: 1.5rem;
+  }
+
+  .enroll-btn,
+  .btn-primary,
+  .btn-outline-primary {
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.6rem 1rem;
+  }
+
+  .page-header {
+    padding: 40px 0;
+  }
+
+  .page-header h1,
+  .page-header p {
+    text-align: center;
+  }
+
+  .about-section .info-box ul li {
+    font-size: 0.95rem;
+  }
+
+  .team-section h2 {
+    font-size: 1.4rem;
+  }
+
+  .contact-form .form-control,
+  .contact-form .btn {
+    font-size: 0.95rem;
+  }
+
+  .footer-section {
+    text-align: center;
+  }
+
+  .footer-section .social-icons {
+    margin-top: 20px;
+  }
+
+  .footer-section ul li {
+    font-size: 0.95rem;
+  }
+
+  .course-card img {
+    height: 150px;
+  }
+
+  .card-img-top {
+    height: 180px;
+  }
+
+  .card-title {
+    font-size: 1rem;
+  }
+}
